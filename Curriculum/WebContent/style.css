@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+	background-color: #555753;
+}
+
+body {
+	background-color: #babdb6;
+}
+
+p {
+	background-color: #a1a1a1;
+}
+
+.color {
+	color: #2e72bd;
+	font-style: normal;
+}
+
+.negrita {
+	color: #2e72bd;
+	font-style: normal;
+	font-weight: bold;
+}
+.blanco {
+	background-color: #ffffff;
+	font-style: normal;
+	font-weight: bold;
+	text-align: right;
+}
